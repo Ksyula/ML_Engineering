@@ -19,6 +19,6 @@
 |11  | Kubeflow and KFServing                        | ⏳     | -----/2021   | [LINK EMPTY]|
 |12  | Capstone Project                              | ⌛     | 13/12/2021   | [Capstone Project]|
 |13  | Article                                       | ⌛     | 30/01/2022   | [Article]|
-|14  | 3rd Proj                                      | ⏳     | 24/01/2022   | [3rd Project]|
+|14  | 3rd Project                                   | ⏳     | 24/01/2022   | [3rd Project]|
 
 On Kaggle - [link](https://www.kaggle.com/ksyuleg)
