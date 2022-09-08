@@ -22,3 +22,5 @@
 |14  | 3rd Project                                   | ⏳     | 24/01/2022   | [3rd Project]|
 
 On Kaggle - [link](https://www.kaggle.com/ksyuleg)
+
+The original course contents is [here](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp), courtesy of [Alexey Grigorev](https://github.com/alexeygrigorev).
