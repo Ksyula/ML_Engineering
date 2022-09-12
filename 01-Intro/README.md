@@ -1,6 +1,6 @@
 # Intro Session : Homework & data
 
-Course Overview :
+Session Overview :
 
 * 1.1 Introduction to Machine Learning
 * 1.2 ML vs Rule-Based Systems
