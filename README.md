@@ -7,7 +7,7 @@
 | Id | Module Session                                | Progress | Deadline    | Link               | 
 |----|-----------------------------------------------|----------|--------------|--------------------|
 |01  | Introduction to Machine Learning              | :white_check_mark:     | 12/09/2022   | [Intro] |
-|02  | Machine Learning for Regression               | ⌛     | 19/09/2022   | [Regression]|
+|02  | Machine Learning for Regression               | :white_check_mark:     | 19/09/2022   | [Regression]|
 |03  | Machine Learning for Classification           | ⌛     | 26/09/2022   | [Classification]|
 |04  | Evaluation Metrics for Classification         | ⌛     | 03/10/2022   | [Evaluation]|
 |05  | Deploying Machine Learning Models             | ⌛     | 10/10/2022   | [Deployment]|
