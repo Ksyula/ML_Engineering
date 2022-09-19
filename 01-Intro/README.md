@@ -1,4 +1,4 @@
-# Intro Session : Homework & data
+# Intro Session : Homework & Dataset
 
 Session Overview :
 

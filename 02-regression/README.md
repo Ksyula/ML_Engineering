@@ -1,4 +1,4 @@
-# Machine Learning for Regression : Homework & data
+# Machine Learning for Regression : Homework & Dataset
 
 Session Overview :
 
