@@ -19,7 +19,7 @@ Session Overview :
 
 ### Dataset
 
-In this homework, we will use Credit Card Data from book "Econometric Analysis" - [Link]
+In this homework, we will use Credit Card Data from book "Econometric Analysis" - [Link](https://raw.githubusercontent.com/Ksyula/ML_Engineering/master/04-evaluation/AER_credit_card_data.csv)
 
 The goal of this homework is to inspect the output of different evaluation metrics by creating a classification model (target column `card`).
 
