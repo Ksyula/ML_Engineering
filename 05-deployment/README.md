@@ -27,6 +27,7 @@ In this homework, we will use Credit Card Data from book "Econometric Analysis" 
 * What's the version of pipenv you installed?
 * Use `--version` to find out
 
+**2022.10.4**
 
 ## Question 2
 
@@ -35,6 +36,8 @@ In this homework, we will use Credit Card Data from book "Econometric Analysis" 
 
 Note: you should create an empty folder for homework
 and do it there. 
+
+**sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b**
 
 
 ## Models
@@ -82,7 +85,7 @@ Let's use these models!
 
 What's the probability that this client will get a credit card? 
 
-* 0.148
+* **0.148**
 * 0.391
 * 0.601
 * 0.993
@@ -115,7 +118,7 @@ What's the probability that this client will get a credit card?
 * 0.274
 * 0.484
 * 0.698
-* 0.928
+* **0.928**
 
 
 ## Docker
@@ -148,7 +151,7 @@ Download the base image `svizor/zoomcamp-model:3.9.12-slim`. You can easily make
 So what's the size of this base image?
 
 * 15 Mb
-* 125 Mb
+* **125 Mb**
 * 275 Mb
 * 415 Mb
 
@@ -191,5 +194,5 @@ What's the probability that this client will get a credit card now?
 
 * 0.289
 * 0.502
-* 0.769
+* **0.769**
 * 0.972
