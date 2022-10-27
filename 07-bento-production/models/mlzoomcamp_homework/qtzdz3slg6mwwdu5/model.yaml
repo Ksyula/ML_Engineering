@@ -1,0 +1,17 @@
+name: mlzoomcamp_homework
+version: qtzdz3slg6mwwdu5
+module: bentoml.sklearn
+labels: {}
+options: {}
+metadata: {}
+context:
+  framework_name: sklearn
+  framework_versions:
+    scikit-learn: 1.1.1
+  bentoml_version: 1.0.7
+  python_version: 3.9.12
+signatures:
+  predict:
+    batchable: false
+api_version: v1
+creation_time: '2022-10-13T20:42:14.411084+00:00'

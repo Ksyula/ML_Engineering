@@ -1,0 +1,18 @@
+name: credit_risk_model
+version: dtlts7cv4s2nbhht
+module: bentoml.xgboost
+labels: {}
+options:
+  model_class: Booster
+metadata: {}
+context:
+  framework_name: xgboost
+  framework_versions:
+    xgboost: 1.6.2
+  bentoml_version: 1.0.7
+  python_version: 3.9.13
+signatures:
+  predict:
+    batchable: false
+api_version: v2
+creation_time: '2022-10-27T10:42:54.314457+00:00'
