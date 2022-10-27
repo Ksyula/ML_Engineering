@@ -1,0 +1,5 @@
+pydantic==1.10.2
+bentoml==1.0.7
+scikit-learn==1.1.1
+gevent==20.12.1
+locust==2.12.2

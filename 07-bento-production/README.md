@@ -131,7 +131,7 @@ Send this array to the Bento:
 You can use curl or the Swagger UI. What value does it return? 
 
 * 0
-* 1
+* **1**
 * 2
 * 3
 
@@ -179,15 +179,13 @@ Update your bento's runner tag and test with both models. Which model allows mor
 
 Which model has better performance at higher volumes?
 
-* The first model
+* **The first model**
 * The second model
 
 
 ## Email from marketing
 
-Hello ML person! I hope this email finds you well. I've heard there's this cool new ML model called Stable Diffusion.
-I hear if you give it a description of a picture it will generate an image. We need a new company logo and I want it
-to be fierce but also cool, think you could help out?
+Hello ML person! I hope this email finds you well. I've heard there's this cool new ML model called Stable Diffusion. I hear if you give it a description of a picture it will generate an image. We need a new company logo and I want it to be fierce but also cool, think you could help out?
 
 Thanks,
 
@@ -203,28 +201,4 @@ Don't change the seed, it should be 0 by default
 
 What is the resulting image?
 
-### #1
-<img src="resources/dragon1.jpeg">
-
-### #2 
-<img src="resources/dragon2.jpeg">
-
-### #3 
-<img src="resources/dragon3.jpeg">
-
-### #4
-<img src="resources/dragon4.jpeg">
-
-
-## Submit the results
-
-* Submit your results here: https://forms.gle/Hh9FWy6LGXk3wJYs8
-* You can submit your solution multiple times. In this case, only the last submission will be used 
-* If your answer doesn't match options exactly, select the closest one
-
-
-## Deadline
-
-The deadline for submitting is **24 October 2022 (Monday), 23:00 CEST (Berlin time)**. 
-
-After that, the form will be closed.
+<img src="dragon.jpeg">
