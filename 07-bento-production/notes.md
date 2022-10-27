@@ -1,1 +1,0 @@
-bentoml serve service.py:svc --reload
